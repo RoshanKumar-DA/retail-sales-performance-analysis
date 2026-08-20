@@ -48,7 +48,7 @@ I used a retail sales dataset and created an interactive dashboard to understand
 
 ## Project File
 
-[Download the Excel Dashboard](Retail_Sales_Performance_Analysis.xlsx)
+[Open Excel Project](./Retail%20Sales%20Performance%20Analysis.xlsx)
 
 `Retail_Sales_Performance_Analysis.xlsx`
 
