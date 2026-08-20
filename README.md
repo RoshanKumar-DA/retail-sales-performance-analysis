@@ -44,7 +44,9 @@ I used a retail sales dataset and created an interactive dashboard to understand
 
 ## Dashboard
 
-![Sales Dashboard](./Dashboard.png?raw=true)
+## Dashboard
+
+![Sales Dashboard](https://raw.githubusercontent.com/RoshanKumar-DA/retail-sales-performance-analysis/main/Dashboard.png)
 
 
 ## Project File
