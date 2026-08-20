@@ -17,18 +17,18 @@ I used a retail sales dataset and created an interactive dashboard to understand
 
 ## Dashboard KPIs
 
-* Total Revenue: **$10.03M**
+* Total Revenue: **10.03M**
 * Total Orders: **307**
 * Total Quantity: **99,067**
-* Average Order Value: **$32.68K**
+* Average Order Value: **₹32.68K**
 * Top Product Line: **Classic Cars**
 * Top Country: **USA**
 
 ## Some findings
 
-* 2004 was the strongest full year with around **$4.72M** in revenue.
-* Classic Cars was the top product line with around **$3.92M** in revenue.
-* USA generated the highest revenue with around **$3.63M**.
+* 2004 was the strongest full year with around **₹4.72M** in revenue.
+* Classic Cars was the top product line with around **₹3.92M** in revenue.
+* USA generated the highest revenue with around **₹3.63M**.
 * Q4 had the strongest sales performance in both 2003 and 2004.
 * 2005 has only partial-year data, so I didn't compare it directly with the full years.
 
