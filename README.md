@@ -44,11 +44,12 @@ I used a retail sales dataset and created an interactive dashboard to understand
 
 ## Dashboard
 
-I'll add the dashboard screenshot here.
+![Sales Dashboard](screenshots/dashboard-preview.png)
+
 
 ## Project File
 
-The Excel workbook is available in this repository:
+[Download the Excel Dashboard](Retail_Sales_Performance_Analysis.xlsx)
 
 `Retail_Sales_Performance_Analysis.xlsx`
 
