@@ -44,7 +44,7 @@ I used a retail sales dataset and created an interactive dashboard to understand
 
 ## Dashboard
 
-![Sales Dashboard](./Dashboard.png)
+![Sales Dashboard](./Dashboard.png?raw=true)
 
 
 ## Project File
